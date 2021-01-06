@@ -14,7 +14,7 @@
     "@luban-h5/plugin-common-props": "^0.0.2",
     "animate.css": "^4.1.0",
     "ant-design-vue": "^1.5.6",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "core-js": "^3.6.4",
     "element-ui": "^2.13.1",
     "font-awesome": "^4.7.0",
